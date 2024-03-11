@@ -1,3 +1,12 @@
 Welcome to lecture of version Control System
 Hello everyone
 `git status`=> its track the files on working area and update on the working area
+steps for version control system 
+1. git init
+2. git status 
+3. git add <file name>
+4. git commit -m "message for commit"
+5. git branch 
+6. git branch -M "branch name"
+7. git remote add origin <link>
+8. git push origin main 
