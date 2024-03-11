@@ -1,2 +1,3 @@
 Welcome to lecture of version Control System
 Hello everyone
+`git status`=> its track the files on working area and update on the working area
